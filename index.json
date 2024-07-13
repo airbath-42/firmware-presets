@@ -6365,6 +6365,19 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.5/other/teeling_osd.txt",
+      "hash": "bd0e2669a0bfccff472bf1073fc3dfdc53531ae606f487768cd78ac0fba8747e",
+      "title": "teeling's OSD",
+      "firmware_version": [
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "OSD",
+      "status": "COMMUNITY",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.5/other/zoefpv.txt",
       "hash": "78e6a4d9c57554d080044f446552ed5ab60fe28dfe4167099fcb2f1df1e66555",
       "title": "ZoeFPV 3d tuneup",
